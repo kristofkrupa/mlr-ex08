@@ -69,12 +69,12 @@ Added photos + geometric + colour + cosine 30 + smoothing (best on val and camer
 Exported as an ONNX model, seed 0: val 23 of 28, last years 112 of 120.
 
 Course camera app:
-did not work
+problem: did not load my .onyx file
 
+My camera app:
 Class: Maple
 Scores:
 apple 0.003
 cherry 0.049
 chestnut 0.008
 maple 0.940
-
